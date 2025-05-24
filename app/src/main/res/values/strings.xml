@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">homework_3</string>
+    <string name="home">Home</string>
+    <string name="products">Products</string>
+    <string name="favorites">Favorites</string>
+    <string name="contact">Contact</string>
+    <string name="product">Product</string>
+    <string name="welcome_to_tos_tinh_shop">Welcome to Tos Tinh Shop</string>
+    <string name="featured_products">Featured Products</string>
+    <string name="rating_0_0">Rating: 0.0</string>
+    <string name="product_description_goes_here">Product description goes here...</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="email_support_tostinh_com">Email: support@tostinh.com</string>
+    <string name="phone_855_12_345_678">Phone: +855 12 345 678</string>
+    <string name="add_favorite_products_here">Add favorite products here.</string>
+    <string name="your_favorites">Your Favorites</string>
+    <string name="product_name">Product Name</string>
+</resources>
